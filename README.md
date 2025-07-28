@@ -17,7 +17,9 @@ The PSO is a population-based stochastic optimization technique inspired by the 
     cd pso-python`
 
 3. Install Requirements: this implementation uses standard Python libraries. If using Jupyter:
+
 `pip install notebook matplotlib numpy`
 
 3. Run the Notebook
+
 `jupyter notebook main.ipynb`
